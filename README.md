@@ -1,7 +1,5 @@
 ## Hi, I'm Jacob 👋
 
-## 🚀 About Me
-
 I'm a full‑stack developer passionate about clean architecture, developer experience, and building scalable web applications.
 
 💼 Currently a **Full-stack Software Engineer** for NAVSEA:
