@@ -6,7 +6,7 @@
 
 <div style="display: flex; align-items: flex-start;">
 
-<div style="flex: 1;">
+<div>
 I'm a full-stack software engineer with 5+ years of experience building enterprise applications. I’m passionate about clean architecture, developer experience, and creating scalable products that solve real problems.
 
 - 💼 Software Engineer at <a href="https://www.navsea.navy.mil/">NAVSEA</a>
@@ -15,7 +15,7 @@ I'm a full-stack software engineer with 5+ years of experience building enterpri
 - 🌱 Currently Learning Flutter mobile development
 </div>
 
-<div style="margin-left: 20px;">
+<div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhalvorson6687&layout=compact&theme=dark)
 
