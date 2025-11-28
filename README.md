@@ -4,24 +4,26 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/jhalvorson6687)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff)](https://www.instagram.com/jacob_halvorson)
 
-<div style="display: flex; align-items: flex-start;">
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-<div>
 I'm a full-stack software engineer with 5+ years of experience building enterprise applications. I’m passionate about clean architecture, developer experience, and creating scalable products that solve real problems.
 
-- 💼 Software Engineer at <a href="https://www.navsea.navy.mil/">NAVSEA</a>
-- 📍 San Diego, CA
-- 🎓 BS in Computer Engineering - UC Riverside
-- 🌱 Currently Learning Flutter mobile development
-</div>
-
-<div>
+<ul>
+  <li>💼 Software Engineer at <a href="https://www.navsea.navy.mil/">NAVSEA</a></li>
+  <li>📍 San Diego, CA</li>
+  <li>🎓 BS in Computer Engineering - UC Riverside</li>
+  <li>🌱 Currently Learning Flutter mobile development</li>
+</ul>
+    </td>
+    <td valign="top" width="50%">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhalvorson6687&layout=compact&theme=dark)
+    </td>
+  </tr>
+</table>
 
-</div>
-
-</div>
 
 ### 🛠️ Tech Stack
 #### Backend
