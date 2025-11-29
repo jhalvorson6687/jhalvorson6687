@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jhalvorson6687@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@jacobhalvorson534/featured)
 
-I'm a full-stack software engineer with 5+ years of experience building enterprise applications. I’m passionate about clean architecture, developer experience, and creating scalable products that solve real problems.
+I'm a full-stack software engineer with 5+ years of experience building enterprise apps, focused on building clean, reliable, and meaningful software.
 
 - 💼 Software Engineer at <a href="https://www.navsea.navy.mil/">NAVSEA</a>
 - 📍 San Diego, CA
@@ -50,9 +50,9 @@ I'm a full-stack software engineer with 5+ years of experience building enterpri
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)](https://swagger.io/)
 
----
 <br>
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=jhalvorson6687&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhalvorson6687&layout=compact&theme=dark)
 
 ---
