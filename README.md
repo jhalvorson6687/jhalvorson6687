@@ -53,7 +53,6 @@ I'm a full-stack software engineer with 5+ years of experience building enterpri
 <br>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jhalvorson6687&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhalvorson6687&layout=compact&theme=dark)
 
 ---
 
